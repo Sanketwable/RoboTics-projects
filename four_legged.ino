@@ -21,7 +21,8 @@ void setup() {
 void loop() 
 {
     for (int j=0;j<4;j++)
-    {
+    { 
+        /*seting up bot to start*/
         fr[i].write(90);
         fl[i].write(90);
         br[i].write(90);
